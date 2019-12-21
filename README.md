@@ -3,8 +3,7 @@
 ---
 
 Kurulum:
-server.cfg // oraya aşağıdaki kodu ekleyin.
-start tab
+server.cfg // girdikten sonra şu kodu ekleyin: start tab
 
 ---
 
