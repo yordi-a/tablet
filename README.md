@@ -1,6 +1,4 @@
-Üzerinde düzenlemeler yapılan tablet.
-Ücretsiz bir şekilde kullanabilirsiniz.
-Üzerinde uğraşılmadı sizin hayal gücünüze kalmıştır düzenlemek.
+Üzerinde düzenlemeler çok fazla yapılmadı genel anlamıyla tasarımı ile oynandı. Scripti geliştirmek tamamen sizin hayal gücünüze kalmıştır.
 
 ---
 
